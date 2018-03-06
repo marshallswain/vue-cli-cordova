@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-cordova",
+  "version": "0.0.0",
+  "description": "Setup your vue-cli app an Apache Cordova project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
